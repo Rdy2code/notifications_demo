@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+
+    <!--Activity Main Layout-->
+    <string name="button_text_notify_me">Notify Me</string>
+    <string name="button_text_cancel_me">Cancel Me</string>
+    <string name="button_text_update_me">Update Me</string>
+</resources>
